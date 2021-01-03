@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**francescomasala/francescomasala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [Bottles](https://github.com/bottlesdevs/bottles) and a very cool little project (closed source for now :c )
+- 🌱 I’m currently learning Java, Python and Kubernetes
+- 📫 How to reach me: You can message me on [Telegram](https://t.me/K3RN3L_P4NIC) or [email](mailto:mail@francescomasala.me)
+- ⚡ Fun fact: I've been using linux since I was 10 years old
 
-Here are some ideas to get you started:
+![my github stats](https://github-readme-stats.vercel.app/api?username=francescomasala&custom_title=Stats&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=francescomasala&layout=compact&hide_border=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Organizations
+- [linux/hub](https://github.com/linuxhubit)
+- [BottlesDevs](https://github.com/bottlesdevs)
+- [Biskuit](https://github.com/biskuitorg)
+- [unified/ban](https://github.com/unified-ban)
