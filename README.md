@@ -9,7 +9,4 @@
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=francescomasala&theme=tokyonight&layout=compact&hide_border=true)
 
 #### Organizations
-- [linux/hub](https://github.com/linuxhubit)
 - [BottlesDevs](https://github.com/bottlesdevs)
-- [Biskuit](https://github.com/biskuitorg)
-- [unified/ban](https://github.com/unified-ban)
